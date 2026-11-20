@@ -163,3 +163,4 @@ No copyrighted game binaries, save files, or third-party mods are distributed he
 - [PoE2-RendererCrashAudit](../PoE2-RendererCrashAudit) — Path of Exile 2 DX12/Vulkan crash & `Client.txt` audit
 
 *Independent community project. Not affiliated with GSC Game World, Valve, or Steam. All trademarks belong to their respective owners.*
+ 
